@@ -1,81 +1,44 @@
-# 🏗️ Building Bridges Between Code & Community
+# 👋 Hello, I'm Wasemah Binta Amran
 
-**Hello, I'm Wasemah Binta Amran** — a curious creator from Dhaka, Bangladesh, weaving together technology, storytelling, and human connection.
+A passionate and curious developer from **Dhaka, Bangladesh**, turning imaginative ideas into real-world solutions through code. I believe in the power of technology to transform lives and build bridges between people and possibilities.
 
-## 🌱 My Philosophy
+## 💡 What I Do
+- Build creative and meaningful projects using **Python** and modern tools
+- Explore the intersection of **technology, storytelling, and human connection**
+- Focus on writing clean, purposeful code that makes a difference
 
-I believe the most beautiful code is written with **purpose** and the most elegant solutions are born from **empathy**. My journey into computer science began not just with circuits and syntax, but with a fundamental question: *How can technology become a bridge that connects human needs with creative solutions?*
+## 🛠️ Projects
 
-## 🎯 My Compass
+### 🏢 iStateSell Procurement System  
+*A real estate procurement platform designed with automation and user experience in mind*
 
-- **Problem-Solving as Poetry** – Turning complex challenges into elegant, human-centered solutions
-- **Code with Conscience** – Building technology that empowers, educates, and elevates communities
-- **Learning as Legacy** – Every line of code is a step toward a more equitable digital future
+*(More projects on the way — stay tuned!)*
 
-## 🛠️ What I'm Building
+## 🌱 Currently Growing My Skills In
+- Python Development
+- Software Architecture & Design
+- Problem-Solving with Code
+- Open Source Contribution
 
-### [🏢 iStateSell Procurement System](https://github.com/wasemah/istatesell-procurement-demo)
-Transforming real estate procurement through intelligent automation – because even infrastructure deserves beautiful code.
+## 🎯 My Vision
+I'm on a journey to create technology that is:
+- 👥 **Human-centered**
+- 🌍 **Accessible and impactful** 
+- 💡 **Imaginative yet practical**
 
-### [More Projects Growing Here...]
-*Each project is a chapter in my learning story, blending technical precision with creative problem-solving.*
+## 📬 Let's Connect & Collaborate
 
-## 🌟 Beyond the Code
+I'm always open to:
+- Feedback and code reviews
+- Learning from experienced developers
+- Collaborating on meaningful projects
 
-I'm exploring where **technology meets transformation** – particularly in:
-- Education technology that adapts to human learning patterns
-- Tools that amplify underrepresented voices in digital spaces
-- Solutions that bridge accessibility gaps in emerging markets
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/wasemah-binta-amran/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:wasemah2021@gmail.com)
 
-## 💫 Let's Create Together
+---
 
-```python
-if __name__ == "__main__":
-    if you.believe_in("purpose_driven_tech"):
-        print("Let's build bridges together!")
-        
-    if you.value("curiosity", "collaboration", "compassionate_code"):
-        connect_with_me()
-https://img.shields.io/badge/Let's_Connect-%25230A66C2?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/Start_a_Conversation-%2523D14836?style=for-the-badge&logo=gmail
+> **"Every great invention began as an idea. I'm here to code mine into reality."**
 
-"Every great building once began as imagination. So does every great line of code."
-
-## 🌈 **Alternative Concept: "The Digital Gardener"**
-
-```markdown
-# 🌱 The Digital Gardener
-
-**I'm Wasemah Binta Amran** – planting seeds of code in the soil of human need, watering them with curiosity, and watching solutions bloom.
-
-## My Garden Philosophy
-
-Some see problems; I see **untilled soil**. Some write code; I **plant digital seeds**. From Dhaka, Bangladesh, I'm cultivating technology that:
-- **Grows** community connections
-- **Blooms** with creative solutions  
-- **Bears fruit** in real-world impact
-
-## What's Growing in My Garden
-
-### [🏢 iStateSell Procurement System](https://github.com/wasemah/istatesell-procurement-demo)
-*Cultivating efficiency in real estate through thoughtful automation*
-
-### [More seedlings sprouting soon...]
-*Each project is an experiment in how technology can nurture human potential*
-
-## The Tools I Tend With
-- **Python** – for strong roots and flexible growth
-- **Databases** – to store the nutrients of knowledge
-- **Creative Problem-Solving** – the sunlight that makes everything grow
-
-## Come Visit My Garden
-
-If you believe in:
-- **Technology that feels human**
-- **Code that tells stories**
-- **Solutions that grow communities**
-
-...then you're always welcome here.
-
-[![Let's Garden Together](https://img.shields.io/badge/Let's_Garden_Together-%2300A86B?style=for-the-badge&logo=leaflet)](mailto:wasemah2021@gmail.com)
+⭐ **If you believe in creativity with purpose — let's build the future together.**
 
