@@ -19,7 +19,3 @@ Open to collaborations and professional opportunities.
 
 ---
 
-> **"Every great invention began as an idea. I'm here to code mine into reality."**
-
-⭐ **If you believe in creativity with purpose — let's build the future together.**
-
